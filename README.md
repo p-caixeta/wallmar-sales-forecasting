@@ -1,4 +1,4 @@
-# wallmar-sales-forecasting
+# Wallmart Sales Forecasting (kaggle)
 This is a repository for the kaggle competition "walmart sales forecasting"
 
 I was asked to completed this competition as a job acessement, and I decided to put it up here, and work a few changes.
